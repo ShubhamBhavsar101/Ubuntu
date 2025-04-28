@@ -3,7 +3,7 @@
 ### Add a Figlet
 ```bash
 sudo apt install figlet
-sudo apt install ruby-full
+sudo apt install ruby-full -y
 ```
 Add to ~/.bashrc
 ```bash
