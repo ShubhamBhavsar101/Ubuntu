@@ -11,3 +11,8 @@ Add to ~/.bashrc
 ```bash
 figlet SHUBH | lolcat --seed 105
 ```
+
+Get IP address visibile to outside world
+```bash
+curl ifconfig.me
+```
