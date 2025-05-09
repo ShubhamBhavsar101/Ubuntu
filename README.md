@@ -21,6 +21,7 @@ Kubectl-ai
 ```bash
 kubectl-ai --model gemini-2.5-pro-exp-03-25
 ```
+- Gemini-2.5-flash-preview
 ```bash
 kubectl-ai --model gemini-2.5-flash-preview-04-17
 ```
