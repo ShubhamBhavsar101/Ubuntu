@@ -16,3 +16,7 @@ Get IP address visibile to outside world
 ```bash
 curl ifconfig.me
 ```
+Kubectl-ai
+```bash
+kubectl-ai --model gemini-2.5-pro-exp-03-25
+```
