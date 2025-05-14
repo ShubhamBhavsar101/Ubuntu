@@ -13,6 +13,15 @@ sudo apt install ./amdgpu-install_6.3.60304-1_all.deb -y
 amdgpu-install -y --usecase=graphics,rocm
 ```
 
+## Add user to render and video groups
+```bash
+groups
+```
+```bash
+sudo usermod -a -G render,video $LOGNAME
+```
+
+## Reboot
 ```bash
 sudo reboot
 ```
